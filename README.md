@@ -1,3 +1,4 @@
+![App Screenshot](https://i.ibb.co/L8SJxyL/Screenshot-5.jpg/468x300?text=App+Screenshot+Here)
 
 # FoodNetwork Starter Repository
 
